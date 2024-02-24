@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/nitin-5juyal/nitin-5juyal/blob/main/gitbanner.jpeg)
 <h1 align="center">Hi 👋, I'm Nitin juyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
